@@ -2,3 +2,11 @@ sierpinski-triangle
 ===================
 
 Implementation of Sierpinski triangle in Javascript.
+
+Contributors
+============
+ - [Aravind](https://github.com/m-arav)
+ - [Ernest](https://github.com/ernest-ns)
+ - [Jayakrishnan](https://github.com/JAYKRISHNAN)
+ - [Sherfin](https://github.com/sherfin94)
+ - [Sreenath](https://github.com/tacticiankerala)
