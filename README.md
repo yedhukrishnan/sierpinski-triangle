@@ -1,7 +1,7 @@
 sierpinski-triangle
 ===================
 
-Implementation of Sierpinski triangle in Javascript.
+Implementation of Sierpinski triangle in HTML & Javascript.
 
 See the [Live Demo](https://yedhukrishnan.github.io/sierpinski-triangle/)
 
